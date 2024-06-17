@@ -1,0 +1,238 @@
+2024-06-06 23:28:09,143: DEBUG: test_end2end:debug log
+2024-06-06 23:28:09,143: INFO: test_end2end:information
+2024-06-06 23:28:09,144: WARNING: test_end2end:warning
+2024-06-06 23:28:09,144: ERROR: test_end2end:error
+2024-06-06 23:28:09,144: CRITICAL: test_end2end:critical
+2024-06-06 23:28:10,398: INFO: test_end2end:getting all the items
+2024-06-06 23:28:10,418: INFO: test_end2end:['iphone X']
+2024-06-06 23:28:10,423: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-06 23:28:10,429: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-06 23:28:10,433: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-06 23:28:10,538: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-06 23:28:16,103: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:28:16,106: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:28:16,109: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:28:16,110: INFO: test_end2end:success
+2024-06-06 23:30:11,047: DEBUG: test_end2end:debug log
+2024-06-06 23:30:11,048: INFO: test_end2end:information
+2024-06-06 23:30:11,048: WARNING: test_end2end:warning
+2024-06-06 23:30:11,048: ERROR: test_end2end:error
+2024-06-06 23:30:11,048: CRITICAL: test_end2end:critical
+2024-06-06 23:30:12,605: INFO: test_end2end:getting all the items
+2024-06-06 23:30:12,627: INFO: test_end2end:['iphone X']
+2024-06-06 23:30:12,632: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-06 23:30:12,643: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-06 23:30:12,650: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-06 23:30:12,753: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-06 23:30:18,201: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:30:18,202: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:30:18,203: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:30:18,203: INFO: test_end2end:success
+2024-06-06 23:33:33,685: DEBUG: test_end2end:debug log
+2024-06-06 23:33:33,686: INFO: test_end2end:information
+2024-06-06 23:33:33,686: WARNING: test_end2end:warning
+2024-06-06 23:33:33,686: ERROR: test_end2end:error
+2024-06-06 23:33:33,686: CRITICAL: test_end2end:critical
+2024-06-06 23:33:35,224: INFO: test_end2end:getting all the items
+2024-06-06 23:33:35,255: INFO: test_end2end:['iphone X']
+2024-06-06 23:33:35,263: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-06 23:33:35,269: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-06 23:33:35,278: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-06 23:33:35,406: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-06 23:33:40,943: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:33:40,943: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:33:40,943: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:33:40,943: INFO: test_end2end:success
+2024-06-06 23:35:59,711: DEBUG: test_end2end:debug log
+2024-06-06 23:35:59,712: INFO: test_end2end:information
+2024-06-06 23:35:59,712: WARNING: test_end2end:warning
+2024-06-06 23:35:59,712: ERROR: test_end2end:error
+2024-06-06 23:35:59,712: CRITICAL: test_end2end:critical
+2024-06-06 23:36:01,285: INFO: test_end2end:getting all the items
+2024-06-06 23:36:01,303: INFO: test_end2end:['iphone X']
+2024-06-06 23:36:01,313: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-06 23:36:01,320: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-06 23:36:01,326: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-06 23:36:01,450: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-06 23:36:06,908: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:36:06,908: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:36:06,908: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-06 23:36:06,908: INFO: test_end2end:success
+2024-06-07 16:16:45,880: DEBUG: test_end2end:debug log
+2024-06-07 16:16:45,882: INFO: test_end2end:information
+2024-06-07 16:16:45,883: WARNING: test_end2end:warning
+2024-06-07 16:16:45,883: ERROR: test_end2end:error
+2024-06-07 16:16:45,883: CRITICAL: test_end2end:critical
+2024-06-07 16:16:47,660: INFO: test_end2end:getting all the items
+2024-06-07 16:16:47,686: INFO: test_end2end:['iphone X']
+2024-06-07 16:16:47,694: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-07 16:16:47,703: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-07 16:16:47,717: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-07 16:16:47,938: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-07 16:16:53,672: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 16:16:53,675: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 16:16:53,676: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 16:16:53,676: INFO: test_end2end:success
+2024-06-07 16:18:35,663: DEBUG: test_end2end:debug log
+2024-06-07 16:18:35,665: INFO: test_end2end:information
+2024-06-07 16:18:35,665: WARNING: test_end2end:warning
+2024-06-07 16:18:35,665: ERROR: test_end2end:error
+2024-06-07 16:18:35,665: CRITICAL: test_end2end:critical
+2024-06-07 16:18:37,297: INFO: test_end2end:getting all the items
+2024-06-07 16:18:37,328: INFO: test_end2end:['iphone X']
+2024-06-07 16:18:37,334: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-07 16:18:37,343: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-07 16:18:37,350: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-07 16:18:37,494: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-07 16:18:42,984: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 16:18:42,986: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 16:18:42,986: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 16:18:42,986: INFO: test_end2end:success
+2024-06-07 21:54:34,244: DEBUG: test_end2end:debug log
+2024-06-07 21:54:34,249: INFO: test_end2end:information
+2024-06-07 21:54:34,249: WARNING: test_end2end:warning
+2024-06-07 21:54:34,249: ERROR: test_end2end:error
+2024-06-07 21:54:34,249: CRITICAL: test_end2end:critical
+2024-06-07 21:54:35,940: INFO: test_end2end:getting all the items
+2024-06-07 21:54:35,965: INFO: test_end2end:['iphone X']
+2024-06-07 21:54:35,979: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-07 21:54:35,986: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-07 21:54:35,996: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-07 21:54:36,116: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-07 21:54:41,532: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 21:54:41,532: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 21:54:41,532: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-07 21:54:41,533: INFO: test_end2end:success
+2024-06-08 11:23:02,697: DEBUG: test_end2end:debug log
+2024-06-08 11:23:02,698: INFO: test_end2end:information
+2024-06-08 11:23:02,698: WARNING: test_end2end:warning
+2024-06-08 11:23:02,698: ERROR: test_end2end:error
+2024-06-08 11:23:02,698: CRITICAL: test_end2end:critical
+2024-06-08 11:23:04,376: INFO: test_end2end:getting all the items
+2024-06-08 11:23:04,393: INFO: test_end2end:['iphone X']
+2024-06-08 11:23:04,400: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-08 11:23:04,406: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-08 11:23:04,412: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-08 11:23:04,519: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-08 11:23:09,958: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:23:09,961: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:23:09,965: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:23:09,965: INFO: test_end2end:success
+2024-06-08 11:34:50,272: DEBUG: test_end2end:debug log
+2024-06-08 11:34:50,273: INFO: test_end2end:information
+2024-06-08 11:34:50,273: WARNING: test_end2end:warning
+2024-06-08 11:34:50,273: ERROR: test_end2end:error
+2024-06-08 11:34:50,273: CRITICAL: test_end2end:critical
+2024-06-08 11:34:51,846: INFO: test_end2end:getting all the items
+2024-06-08 11:34:51,862: INFO: test_end2end:['iphone X']
+2024-06-08 11:34:51,870: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-08 11:34:51,876: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-08 11:34:51,883: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-08 11:34:51,999: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-08 11:34:57,429: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:34:57,429: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:34:57,429: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:34:57,429: INFO: test_end2end:success
+2024-06-08 11:42:19,596: DEBUG: test_end2end:debug log
+2024-06-08 11:42:19,597: INFO: test_end2end:information
+2024-06-08 11:42:19,598: WARNING: test_end2end:warning
+2024-06-08 11:42:19,598: ERROR: test_end2end:error
+2024-06-08 11:42:19,598: CRITICAL: test_end2end:critical
+2024-06-08 11:42:21,431: INFO: test_end2end:getting all the items
+2024-06-08 11:42:21,440: INFO: test_end2end:['iphone X']
+2024-06-08 11:42:21,450: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-08 11:42:21,456: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-08 11:42:21,463: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-08 11:42:22,106: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-08 11:42:28,684: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:42:28,685: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:42:28,685: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 11:42:28,685: INFO: test_end2end:success
+2024-06-08 12:09:53,444: DEBUG: test_end2end:debug log
+2024-06-08 12:09:53,445: INFO: test_end2end:information
+2024-06-08 12:09:53,445: WARNING: test_end2end:warning
+2024-06-08 12:09:53,445: ERROR: test_end2end:error
+2024-06-08 12:09:53,445: CRITICAL: test_end2end:critical
+2024-06-08 12:09:55,037: INFO: test_end2end:getting all the items
+2024-06-08 12:09:55,054: INFO: test_end2end:['iphone X']
+2024-06-08 12:09:55,059: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-08 12:09:55,065: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-08 12:09:55,071: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-08 12:09:55,182: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-08 12:10:00,584: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:10:00,586: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:10:00,586: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:10:00,586: INFO: test_end2end:success
+2024-06-08 12:22:08,791: DEBUG: test_end2end:debug log
+2024-06-08 12:22:08,792: INFO: test_end2end:information
+2024-06-08 12:22:08,792: WARNING: test_end2end:warning
+2024-06-08 12:22:08,792: ERROR: test_end2end:error
+2024-06-08 12:22:08,792: CRITICAL: test_end2end:critical
+2024-06-08 12:22:10,237: INFO: test_end2end:getting all the items
+2024-06-08 12:22:10,274: INFO: test_end2end:['iphone X']
+2024-06-08 12:22:10,285: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-08 12:22:10,294: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-08 12:22:10,306: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-08 12:22:10,502: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-08 12:22:16,275: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:22:16,276: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:22:16,276: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:22:16,276: INFO: test_end2end:success
+2024-06-08 12:28:11,194: DEBUG: test_end2end:debug log
+2024-06-08 12:28:11,195: INFO: test_end2end:information
+2024-06-08 12:28:11,195: WARNING: test_end2end:warning
+2024-06-08 12:28:11,195: ERROR: test_end2end:error
+2024-06-08 12:28:11,195: CRITICAL: test_end2end:critical
+2024-06-08 12:28:12,836: INFO: test_end2end:getting all the items
+2024-06-08 12:28:12,864: INFO: test_end2end:['iphone X']
+2024-06-08 12:28:12,871: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-08 12:28:12,882: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-08 12:28:12,893: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-08 12:28:13,033: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-08 12:28:18,621: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:28:18,622: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:28:18,622: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:28:18,622: INFO: test_end2end:success
+2024-06-08 12:30:41,849: DEBUG: test_end2end:debug log
+2024-06-08 12:30:41,850: INFO: test_end2end:information
+2024-06-08 12:30:41,850: WARNING: test_end2end:warning
+2024-06-08 12:30:41,850: ERROR: test_end2end:error
+2024-06-08 12:30:41,850: CRITICAL: test_end2end:critical
+2024-06-08 12:30:43,468: INFO: test_end2end:getting all the items
+2024-06-08 12:30:43,498: INFO: test_end2end:['iphone X']
+2024-06-08 12:30:43,507: INFO: test_end2end:['iphone X', 'Samsung Note 8']
+2024-06-08 12:30:43,517: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge']
+2024-06-08 12:30:43,529: INFO: test_end2end:['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2024-06-08 12:30:43,694: INFO: test_end2end:Checkout ( 3 )
+(current)
+2024-06-08 12:30:49,307: INFO: test_end2end:×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:30:49,311: INFO: test_end2end:Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:30:49,313: INFO: test_end2end:text received from application is: Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-06-08 12:30:49,313: INFO: test_end2end:success
